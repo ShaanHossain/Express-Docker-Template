@@ -1,5 +1,5 @@
 {
-  "name": "Express-Docker-Template",
+  "name": "express-docker-template",
   "version": "1.0.0",
   "main": "server.ts",
   "repository": "git@github.com:ShaanHossain/Express-Docker-Template.git",
