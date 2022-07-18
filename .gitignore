@@ -1,0 +1,13 @@
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+
+# Files with secrets in them
+.env
+
+# Files that we don't want on git
+node_modules/*
+.DS_STORE
+dist/*
+.idea
